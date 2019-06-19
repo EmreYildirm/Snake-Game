@@ -1,0 +1,26 @@
+snake
+
+yem,snake ve snakegame classları olacak
+
+yön belirme
+
+yem:+
+
+yılan: *  olsun
+
+yılan başlangıçta 3 boyunda olsun
+
+her bir yem yediğinde 1 tane büyüsün
+
+yılanın move metodu olucak
+
+yılanın yön belirtmesi gerek
+
+yılan kendi kendine hareket etmesini istersen timer yapman lazım veya her yön tuşlarından birine basıldığında hareket edebilir
+
+yem yendikten sonra random bir yerde otomatik olarak çıkmalı
+
+yılanı list ile tutucan 
+
+ilerlemek için baştakine ekle sondan sil
+
